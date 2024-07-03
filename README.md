@@ -21,10 +21,10 @@ Each test set is provided in `.jsonl` format and includes various scenarios desi
 
 ## File Descriptions
 
-- `general_v2_20240703.jsonl`: Test set for general scenarios.
-- `monitoring_v2_20240703.jsonl`: Test set for monitoring scenarios.
-- `dispatch_v2_20240703.jsonl`: Test set for dispatch scenarios.
-- `blackstart_v2_20240703.jsonl`: Test set for blackstart scenarios.
+- `general.jsonl`: Test set for general scenarios.
+- `monitoring.jsonl`: Test set for monitoring scenarios.
+- `dispatch.jsonl`: Test set for dispatch scenarios.
+- `blackstart.jsonl`: Test set for blackstart scenarios.
 
 ## How to Use
 
