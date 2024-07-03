@@ -41,4 +41,4 @@ Each test set is provided in `.jsonl` format and includes various scenarios desi
                print(data)
 
    # Read the general test set
-   read_jsonl('general_v2_20240703.jsonl')
+   read_jsonl('general.jsonl')
