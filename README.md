@@ -58,7 +58,6 @@ If you use our dataset or benchmark in your research, please cite our paper:
   journal={arXiv preprint arXiv:2407.05365},
   year={2024}
 }
-
-
+```
 
 You can access the full paper at [arXiv:2407.05365](https://arxiv.org/abs/2407.05365).
