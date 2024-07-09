@@ -46,3 +46,17 @@ This repository is partially open source. It includes selected test datasets use
 
    # Read the general test set
    read_jsonl('general.jsonl')
+
+
+## Citation
+If you use our dataset or benchmark in your research, please cite our paper:
+
+```bibtex
+@article{zhou2024elecbench,
+  title={ElecBench: A Power Dispatch Evaluation Benchmark for Large Language Models},
+  author={Zhou, Xiyuan and Zhao, Huan and Cheng, Yuheng and Cao, Yuji and Liang, Gaoqi and Liu, Guolong and Zhao, Junhua},
+  journal={arXiv preprint arXiv:2407.05365},
+  year={2024}
+}
+
+You can access the full paper at [arXiv:2407.05365](https://arxiv.org/abs/2407.05365).
