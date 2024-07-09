@@ -26,6 +26,10 @@ Each test set is provided in `.jsonl` format and includes various scenarios desi
 - `dispatch.jsonl`: Test set for dispatch scenarios.
 - `blackstart.jsonl`: Test set for blackstart scenarios.
 
+## Partial Open Source
+
+This repository is partially open source. It includes selected test datasets used in our study to enable the research community to evaluate and improve LLM performance in the power sector.
+
 ## How to Use
 
 1. **Reading the Data**: Each `.jsonl` file contains records in JSON Lines format, where each line is a separate JSON object. You can read these files using Python or any other programming language that supports JSON parsing.
