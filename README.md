@@ -56,7 +56,7 @@ If you use our dataset or benchmark in your research, please cite our paper:
 ```bibtex
 @inproceedings{zhou2025elecbench,
   title={ElecBench: A Power Dispatch Evaluation Benchmark for Large Language Models},
-  author={Zhou, Xiyuan and Zhao, Huan and Cheng, Yuheng and Cao, Yuji and Liang, Gaoqi and Liu, Guolong and Liu, Wenxuan and Xu, Yan and Zhao, Junhua},
+  author={Zhou, Xiyuan and Zhao, Huan and Cheng, Yuheng and Liang, Gaoqi and Liu, Guolong and Liu, Wenxuan and Xu, Yan and Zhao, Junhua},
   booktitle={Proc. of the IEEE Power \& Energy Society General Meeting (PESGM)},
   year={2025}
 }
