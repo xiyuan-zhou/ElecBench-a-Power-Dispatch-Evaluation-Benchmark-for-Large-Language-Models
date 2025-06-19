@@ -1,5 +1,7 @@
 # ElecBench: A Power Dispatch Evaluation Benchmark for Large Language Models
 
+🏆 *Best Paper Award*, IEEE Power & Energy Society General Meeting (PESGM) 2025
+
 This repository contains the test datasets used in the paper "ElecBench: A Power Dispatch Evaluation Benchmark for Large Language Models".
 
 ## Introduction
@@ -52,11 +54,11 @@ This repository is partially open source. It includes selected test datasets use
 If you use our dataset or benchmark in your research, please cite our paper:
 
 ```bibtex
-@article{zhou2024elecbench,
+@inproceedings{zhou2025elecbench,
   title={ElecBench: A Power Dispatch Evaluation Benchmark for Large Language Models},
   author={Zhou, Xiyuan and Zhao, Huan and Cheng, Yuheng and Cao, Yuji and Liang, Gaoqi and Liu, Guolong and Zhao, Junhua},
-  journal={arXiv preprint arXiv:2407.05365},
-  year={2024}
+  booktitle={Proc. of the IEEE Power \& Energy Society General Meeting (PESGM)},
+  year={2025}
 }
 ```
 
